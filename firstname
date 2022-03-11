@@ -1,1 +1,8 @@
 this is first project
+class A{
+Public Static void main(String args[])
+{
+System.out.println("this is java project");
+}
+}
+
